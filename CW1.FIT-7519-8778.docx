@@ -1,0 +1,133 @@
+COURSEWORK SUBMISSION FORM
+STUDENT USE	STAFF USE
+Module Name 	Fundamentals of Information Technology	First Marker’s 
+(acts as signature)	
+Module Code	4BUISO12C	Second Marker’s 
+(acts as signature)	
+Lecturer Name	Olga Yugay	Agreed Mark 	
+UoW Student IDs		For Registrar’s office use only (hard copy submission)
+
+WIUT Student IDs	00007519, 00008778	
+Deadline date	16th March, 2020	
+Assignment Type	GroupIndividual 	
+
+
+SUBMISSION INSTRUCTIONS
+
+COURSEWORKS must be submitted in both HARD COPY (to the Registrar’s Office) and ELECTRONIC unless instructed otherwise. 
+For hardcopy submission instructions refer to: http://intranet.wiut.uz/Shared%20Documents/Forms/AllItems.aspx - Coursework hard copy submission instructions.doc
+For online submission instructions refer to: http://intranet.wiut.uz/Shared%20Documents/Forms/AllItems.aspx - Coursework online submission instructions.doc
+
+
+MARKERS FEEDBACK (Continued on the next page)
+
+Contents
+Introduction	2
+Review of hardware/software and solutions	2
+Review of Hardware	2
+Review of Software	2
+Servers	3
+Table	3
+Justifications and Recommendations	6
+Conclusion	6
+Google Docs	6
+GitHub	6
+Reference	7
+
+Word count: 1488 
+
+Introduction 
+According to the given case scenario, a new start-up company wants to build apps for Android and IOS systems. As an IT consultancy firm, we should give the right advices how to start it and how to make this business lucky in terms of technology. Firstly, we should give attention to the tools which are hardware or configuration of computers and servers. Secondly, there are 5 aspects which can make this business work on its way: designing and prototyping, process of development, testing process and project management. Without these branches, IT companies cannot make anything efficient. So, as IT consultants, we will give what are the most efficient tools, what can be recommendations and advice, which means can most fit to this kind of business overall, and should give conclusion.
+Review of hardware/software and solutions
+Review of Hardware
+One of the most important aspects of IT companies is computers and their configurations or hardware parts. And these companies should make sure that they have the right hardware tools and packs. First of all, we should consider that this new company makes Android and IOS mobile apps, and for that it is better for buying Macbook Air or Macbook Pro computers. Because on Windows, it’s hard to create IOS apps and we cannot make the right framework to do on Windows. Macbook Air and Macbook Pro can work for both developmental processes. When it comes to configuration of these computers, processors should be 2.0GHz quad-core 7/8th generation Intel Core i5/i7, random access memory should be at least 8GB, they can contain SSD (solid-state drive) with 128GB storage or 256GB storage. Graphics are Intel UHD or GeForce graphics. Also, for designing purposes, it will be fine if they have retina displays. When it comes to servers, today, most of companies prefer cloud servers. Because they are safer and efficient in most aspects rather than other server types. For example, Amazon Web Servers or Google App Engine webservers are two great examples. Or this new company can build its own webserver like locally. So, in the upcoming table clear review is given.
+Review of Software
+Software is a basic part of any app. In this part, software reviews will be given accordingly.
+Firstly, project management is one of the significant aspects of application building. And project managers should divide tasks efficiently and manage the team. When it comes to software of project management, Trello, GitHub, Jira and Basecamp can be great solutions. They improve time management, give opportunities to share files, images or other crucial parts of the given job. With these tools, managers can divide tasks among team members, control their jobs, plan sprints, describe jobs, job instructions and make comments to jobs. With these tools, project management process can be done easily and accurate.
+Secondly, designing is also one big part of every app making process. Great designs work for both UI (user interface) of apps and for marketing purposes also. In order to achieve great designs, today, most of designers prefer Adobe Xd or Adobe Photoshop, Sketch, InVision products. These products have both vector and pixel graphics. They have built-in templates, artboards and other great tools. They have also cost benefits as well. 
+Thirdly, the core processes of making apps is development process. Developers or software engineers use that kind of tools. Developer use two kind of mobile development tools which are cross platform mobile app making tools and native mobile app building tools. Native tools are used only for one type of platform. For example, Xcode is used for IOS app making process. Or Android studio is used for Android app making process. Cross-platform tools are used for working for both systems. Builfire.js, Ionic are nice practices. The both types of tools create good comfortability for users or programmers. For example, Xcode provides render functions for UI codes, Android Studio provides code shortcuts, and have functions as drag and drop. So, Android studio and Xcode for native app making tools, and Ionic and Buildfire.js are nice solutions for this company.
+Fourthly, apps may have bugs. For this situation, we need tools for testing. These tools are used to test mobile applications on various platforms, to create test cases, to ensure smooth application implementation, to create functional, regression and usability tests. And they show what is what, whether an application has any bugs and etc. For instance, TestingWhiz, Selendroid, Testcomplete and HPEUF are very perfect tools for testing. Selendroid is a great tool which makes comfortable testing, can make integrations as a node. TestingWhiz is also a nice tool which can offer browser testing conditions, integration of SMTP, and also, has integration with Jira and that kind of tools which can ease bug tracking. They use frameworks for testing for both IOS and Android OS.
+Servers 
+Servers can be divided into 3 parts as a service. The first one is infrastructure as a service or IaaS. One of IaaS solutions is Amazon Web Services known as AWS. It provides on-demand cloud computing solutions and platforms for little businesses, individuals, for huge IT businesses. It has a basis called pay-as-you-go. AWS services for clients in over 70 sections. It has storage section, networking section, deployment section, management, analytical tools in order to have better internet, database qualities. The second one is platform as a service or PaaS. Google App Engine is one great tool in this section. Google App Engine gives comfortable working environment, and with this it is easy to use cloud services. It also provides hosting servers, networking databases, tools used to make machine learning. The third one is the service as known as software as a service. Google Apps, Dropbox, Bigcommerce are good examples of this kind of services. 
+Table
+Name and Price	OS support	Short Description	Benefits	Limitations
+Computers and Servers
+Macbook Air
+$1,099.00	Mac OS	2.0GHz quad-core 7/8th-generation Intel Core i5/i7 processor, 8GB configurable up to 32GB	Intel graphics, biometrics with touch ID, great design, weight is low	Price is higher than other laptops
+Macbook Pro
+$1,299.00	Mac OS	2.4GHz quad-core 7/8/9th-generation Intel Core i5/i7 processor, 8GB Ram, 4k-display	Retina display, easy control, security, lots of servers, packs and tools, touch ID	Also price is higher than other laptops
+
+Servers
+AWS-Amazon Web Services
+Price: pay what you use	Windows, Mac OS, Linux	Web services from Amazon, provides high quality features, new qualities used for artificial intelligence	One of the strongest parts is secureness, it is used for military services, bank systems, government organizations and big business companies	Without great internet connection, hard to use it
+Google App Engine
+Price: Instance class per hour B1-FA-1G – $0.05-$0.30
+	Windows, Mac OS	Web Services from Google company, providing with standard and flexible environments	Automatic scaling, instance configurability, cloud console, DNS service, easy to deploy, low cost option	Roadmap visibility, not all framework is supported, monitoring is difficult, vendor lock-in
+Software
+Project-management packs and tools
+Trello
+Free limited use
+Business class: $9.99/per year	Cloud-based
+ Google Chrome, Opera, Firefox, Safari	It is made by Atlassian, is used for project management	Tasks can be divided easily, time-management,
+sharing files	Not designed for everyone, limited views,
+Not a fully-featured PM tool
+GitHub
+Free public use
+Team: $21	Cloud-based, Google Chrome, Safari, Firefox, Opera	Great tool for collaboration and team usage 	Team access controls, backup, markdown, collaboration	Security
+Jira
+Free for limited usage
+Premium: $14/month	Cloud-based, on-premises, SaaS, Safari, Opera, Google Chrome	It is made by Atlassian, is used for project management	Planning sprints, manage issues, track project performance	Complex integration
+Developer tools
+Xcode
+Latest Version: Xcode 11
+Price: free but $100/year for joining Apple’s
+developer program 	MacOS/Linux, Safari	By Apple company, for making apps for IOS systems, uses Swift language	With great editor, layout, in-depth testing, swift and swift packages, declarative syntax, design tools, live mode 	Extra management of servers and bots, for only MacOS
+Android Studio
+Price: Open/Free Source	MacOS/Windows/Linux
+	One of the best tools for Android Development	Flexible build design, realtime profiles, intelligent code editor, fast emulator, apk analyzer	Android user spending habit, security issues, OS adoption fragmentation
+Designer tools
+Adobe Xd
+Free for starter plan with all features
+Premium: $9.99/month with unlimited shared prototypes
+	Windows/MacOS	One of Adobe Products, great designing tool for app development	All types of artboards, tutorials, simple and clean interfaces, repeat grid feature, most explicit feature of the Software	Repeating objects thing does not work as it should, doesn’t have a way to design customized shapes
+Adobe Photoshop
+Individual: $20.99/month
+	MacOS/Windows	One of Adobe Products, pixel-based designing tool	Easy to use, cross-platform,
+Animation making	No vector graphics
+Sketch
+Free trial limited usage
+Starting Price: $11.00/month 	Windows/Mac	Designing for digital products	Effortless design and prototyping, easy design integration	A bit slow, limited customer and support services
+Testing tools
+Selendroid
+Free Source	Windows/Mac	Automation of Test, native app testing, user interaction APIs	JSON compatibility version, working with multiple objects	Slow testing
+TestingWhiz
+30-day free trial
+Premium: $24.99/month	Windows/Mac	TestingWhiz is a venture of Cygnet Infotech, a CMMi Level 3 IT services company based in USA, South Africa, Australia & India	Integrated OCR Capability using
+Google Vision API and Tesseract, 
+Integrated PDF and Excel Commands, 
+Integrated Python Editor Integrated Mobile Recorder	Hybrid apps are limited tested
+
+Justifications and Recommendations
+As an IT consultancy firm, we give recommendations. First of all, computers and servers. As mentioned above, most developers prefer Macbook Pro. If we compare two options which were written above, Macbook Pro has 2.4GHz quad-core 7/8/9th-generation Intel Core i5/i7 processor, 8GB Ram, 4k-display, 2 TB hard drive, 256 GB SSD, new design, low weight. Macbook Air has 2.0GHz quad-core 7/8th-generation Intel Core i5/i7 processor, 8GB RAM configurable up to 32GB, 512 GB hard drive, 128 SSD, low weight. According price category, it is easy to show the difference, because Macbook Pro has $200 higher than Macbook Air. But Macbook Pro has some other beneficial aspects for designing and developing purposes.
+For project management purposes, Trello and GitHub can be very possible solutions. They both have clear collaboration environment, job dividing process, comment sections. GitHub is purely free for public projects, and private projects have fees starting from $7/per person. Trello is free also for limited usage, business class is $9.99/per year and it sounds good.  Zen function of GitHub is great for most users and programmers. Also, GitHub supports around 200 languages, has back-up environment, easy problem catching features. But for security reasons, it has some defects and storage resources can be easily hacked. Trello has features for sharing files, images and mostly tasks can be divided with easy. And when tasks are done or when someone puts a comment, it notifies about them. To sum up, the company can use both of them simultaneously.  
+For design making tools, Adobe Xd and Adobe Photoshop are two most practical tools. Adobe Xs is free for limited usage, has premium which has a fee $9.99 for per year. Adobe Photoshop has a 20.99-dollar fee per person and provides with limitless prototypes. Both of them work on both operation systems. Adobe Photoshop is used for pixel graphics and Adobe Xd is used for vector graphics and the difference of them is also that. But both two have their own specific functions for making qualified designs. So, two of them can be best solutions.
+For development process tools, native tools are best ones according to most developers. Xcode is for IOS development. It is free for Apple customers, and it uses Swift language and packs. Also, it is with great editor, layout, in-depth testing, declarative syntax, design tools, live mode. Android studio is for Android development. One of the best things about Android studio is that it can be installed on Mac computers also. And it is an open source tool which is that everyone can use. Clear aspects are flexible build design, real time profilers, intelligent code editor, fast emulator, APK analyzer. In conclusion, both can be used for making apps in both fields.
+Another aspect of every project is app testing. Testers can use lots of tools to identify if a project has bugs or less-attention-paid parts. One recommendation is TestingWhiz. Although it has a 25-dollar fee, it can be used for both systems. And it is faster also.
+Conclusion
+In conclusion, we gave here best practices and solutions for the new company. In all aspects, they can use the given products and they will make this business to a big and punctual company.
+Google Docs
+Link: https://docs.google.com/document/d/1UM4lqoexQ5Y-e3r0R71KNdA48m5pCK8ALQ3w9VqVHI0/edit 
+GitHub 
+Link: https://github.com/00007519/CW1.FIT-7519-8778/edit/master/CW1.FIT-7519-8778.docx 
+ 
+
+Reference
+Android Studio. (2020). Features of Android Studio. Developer. Available from https://developer.android.com/studio [Accessed 14th March, 2020]
+Trust Radius. (2020). Google App Engine Reviews. Trustradius. Available from https://www.trustradius.com/products/google-app-engine/reviews?qs=pros-and-cons [Accessed 15th March, 2020]
+Google Cloud. (2020). App Engine Pricing. Google. Available from https://cloud.google.com/appengine/pricing [Accessed 12th March, 2020]
+Amazon. (2020). Cloud Computing with AWS. Amazon. Available from https://aws.amazon.com/what-is-aws/ [Accessed 11th March, 2020]
+Hou, T. (2020). IaaS vs PaaS vs SaaS Enter the Ecommerce Vernacular: What You Need to Know, Examples & More. Bigcommerce. Available from https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/ [Accessed 13th March, 2020]
+Faulkner, C. (2020). Apple’s new laptop lineup is simpler, but choosing which one to buy isn’t easier. Theverge. Available from https://www.theverge.com/2019/7/9/20687472/apple-macbook-air-pro-choices-laptop-specs-features-price [Accessed 14th March, 2020]
+Taylor, U. (2020). Right people (Testers). Rightpeoplegroup. Available from https://rightpeoplegroup.com/mobile-app-tester/ [Accessed 13th March, 2020]
+
+
